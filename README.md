@@ -31,3 +31,19 @@ Utilizes complementary base pairing logic for additional protection.
 Adds extra entropy with 8 symbolic bases instead of 4.
 
 Each encryption is unique due to randomized index and base generation.
+
+📸 Screenshots
+
+
+![image](https://github.com/user-attachments/assets/a9f77890-7751-4be7-a770-62617c18c750)
+
+![image](https://github.com/user-attachments/assets/fc1c13eb-15ca-435d-aa0e-29d07dc6a632)
+
+SAPTAK generates different ciphertexts for the same input using randomized base selection and key sequences, ensuring greater security through unpredictability.
+
+![image](https://github.com/user-attachments/assets/d3ab19d1-aa04-4ffa-80c6-3548dc75f148)
+
+
+
+
+
